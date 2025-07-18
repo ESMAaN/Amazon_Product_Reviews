@@ -6,7 +6,7 @@ such as product variation, review text, rating, and feedback.
 The dataset primarily consists of product reviews, where users
 provide suggestions and feedback based on the quality of the
 product. Reviews cover a range of products, such as charcoal
-fabric, walnut fabric, heater gray fabric, etc., with corresponding ratings reflecting user satisfaction levels. Overall,
+fabric, walnut fabric, heater gray fabric, etc., with corresponding ratings reflecting user satisfaction levels. Overall,
 this dataset serves as a valuable resource for analyzing user
 sentiments, offering ratings, and gathering comments based
 on user feedback.Our dataset is diverse and encompasses a
