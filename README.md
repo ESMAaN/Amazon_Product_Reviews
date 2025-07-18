@@ -1,5 +1,5 @@
 The dataset ”[amazon alexa.tsv]” obtained from Kaggle
-offers a comprehensive overview of user ratings and feedback for various Amazon Alexa products. It provides insights
+offers a comprehensive overview of user ratings and feedback for various Amazon Alexa products. It provides insights
 into how these products are perceived by customers through
 verified reviews and feedback.The dataset includes attributes
 such as product variation, review text, rating, and feedback.
